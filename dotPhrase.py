@@ -1,4 +1,4 @@
-#!/usr/bin/env bash
+#!/usr/bin/env python3
 # DotPhrase is a program that monitors what is typed, and when a user-generated
 # "dot phrase" appears, which is a '.' followed by a user-created phrase, the
 # program will delete the dot phrase and type a user-created message. For example,
